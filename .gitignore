@@ -1,0 +1,8 @@
+node_modules
+tmp/arquivosFicha/*
+tmp/imgsFicha/*
+
+*.log
+.editorconfig
+.eslintignore
+.eslintrc.json
