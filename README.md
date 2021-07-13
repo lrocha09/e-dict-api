@@ -41,7 +41,7 @@ Esta API é responsável por administrar as requisições feitas pelo aplicativo
 enviando dados de usuários, fichas toponímicas da cidade de Feira de Sanatana-BA e demais informações como resposta.
 
 As fichas toponímicas são formadas por dados dos topônimos da cidade, bem como nomes, imagens, sinais em libras, 
-contextos históricos, enciclopédias, histórias, localização, entre outros. Através desse projeto é possível estudar 
+contextos históricos, enciclopédias, histórias, localizações, entre outros. Através desse projeto é possível estudar 
 e entender como funciona as nomeclaturas dos bairros, ruas, avenidas e etc. Visando facilitar o dia a dia da comunidade 
 de surdos e deficientes auditivos.
 
@@ -75,7 +75,7 @@ Importe o `e-dict_Insomnia.json` no aplicativo Insomnia ou clique no botão abai
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/lrocha09/e-dict-api.git && e-dict-api
+$ git clone https://github.com/lrocha09/e-dict-api.git && cd e-dict-api
 ```
 
 **Siga os passos abaixo**
