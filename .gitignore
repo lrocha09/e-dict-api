@@ -1,6 +1,7 @@
 node_modules
 tmp/arquivosFicha/*
 tmp/imgsFicha/*
+tmp/imgsPerfil/*
 
 *.log
 .editorconfig
